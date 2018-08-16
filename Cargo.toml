@@ -1,7 +1,7 @@
 [package]
-name = "cargo-template-cli"
+name = "{{project-name}}"
 version = "0.1.0"
-authors = ["dylan_DPC <dylan.dpc@gmail.com>"]
+authors = ["{{authors}}"]
 
 [dependencies]
 clap = { git = "https://github.com/kbknapp/clap-rs", branch = "v3-dev" }
