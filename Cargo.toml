@@ -4,7 +4,5 @@ version = "0.1.0"
 authors = ["{{authors}}"]
 
 [dependencies]
-clap = { git = "https://github.com/kbknapp/clap-rs", branch = "v3-dev" }
-clap-verbosity-flag = "0.2"
-clap-log-flag = "0.1"
 structopt = "0.2"
+
